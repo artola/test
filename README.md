@@ -1,0 +1,1 @@
+![Test](data:image/svg+xml;base64,XXX)
