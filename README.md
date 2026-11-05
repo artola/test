@@ -1,1 +1,3 @@
-![Test](data:image/svg+xml;base64,XXX)
+![Test][logo]
+
+[logo]: data:image/svg+xml;base64,XXX
